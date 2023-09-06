@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: burlywood;
+    padding: 60px 100px;
+    font-family: Roboto;
+}
+
+h1 {
+    text-align: center;
+    color: teal;
+    text-decoration: underline dashed;
+    font-family: 'Times New Roman';
+    font-size: 50px;
+}
+
+#container {
+    margin-top: 70px;
+    text-align: center;
+    background: indianred;
+    padding: 50px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 25px beige;
+    font-family: 'Arial';
+    font-weight: bolder;
+}
+
+.inputdiv {
+    display: inline-block;
+}
+
+.inp {
+    padding: 5px 10px;
+    margin: 20px;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+label {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+button {
+    padding: 5px 10px;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: cursive;
+    color: seagreen;
+    text-align: center;
+    display: inline-block;
+}
